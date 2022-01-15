@@ -1,5 +1,7 @@
 # Lista-Clientes
 
+* IDE usada: Visual Studio Code
+
 ## Objetivo: 
 Através da linguagem C# criar uma interface no CMD onde o usuário seja capaz de inserir, remover e procurar por clientes.
 
